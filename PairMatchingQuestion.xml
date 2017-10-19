@@ -1,23 +1,23 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <question type="matching">
 	<name>
-		<text>Demo question d'appariement</text>
+		<text>Demo question d'appariement \n</text>
 	</name>
 	<questiontext format="html">
-		<text>Quel est la bonne réponse ?</text>
+		<text>Quel est la bonne réponse  \n</text>
 	</questiontext>
 	<penalty>1</penalty>
 	<defaultgrade>1</defaultgrade>
 	<subquestion>
-		<text>Premier item de la première paire</text>
+		<text>Premier item de la première paire \n</text>
 		<answer>
-			<text>Second item de le première paire</text>
+			<text>Second item de le première paire \n</text>
 		</answer>
 	</subquestion>
 	<subquestion>
-		<text>Premier item de la seconde paire</text>
+		<text>Premier item de la seconde paire \n</text>
 		<answer>
-			<text>Second item de la seconde paire</text>
+			<text>Second item de la seconde paire \n</text>
 		</answer>
 	</subquestion>
 	<shuffleanswers>true
